@@ -10,6 +10,5 @@ export default function FunSon(value) {
                 return (<h2>{value}</h2>)
             }}</MyContext.Consumer>
         </Fragment>
-
     )
 }

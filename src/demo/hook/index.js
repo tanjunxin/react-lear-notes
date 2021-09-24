@@ -4,7 +4,8 @@ import React, { Fragment } from 'react'
 // import ContextFather from './Contexts/ContextFather'
 // import Refs from './Refs'
 // import Memos from './Memos'
-import Callbacks from './Callbacks'
+// import Callbacks from './Callbacks'
+import Reducers from './Reducers'
 // import Test from './test'
 
 export default function index() {
@@ -28,7 +29,9 @@ export default function index() {
             */}
             {/* <Memos /> */}
             <h2>------------------</h2>
-            <Callbacks />
+            {/* <Callbacks /> */}
+            <h2>------------------</h2>
+            <Reducers />
         </Fragment>
     )
 }

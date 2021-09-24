@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 // import TestProps from './demo/props/index'
 // import TestHook from './demo/hook/index'
 // import TestHoc from './demo/hoc/index'
-import TestRedux from './demo/redux/index'
+import TestRedux from './Test'
 
 // 引入redux
 import { createStore } from 'redux'
